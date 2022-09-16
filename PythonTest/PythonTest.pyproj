@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ClassWork\Day3%2816.09%29\Tricky_Sums.py" />
     <Compile Include="PythonTest.py" />
   </ItemGroup>
   <ItemGroup>
