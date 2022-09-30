@@ -1,4 +1,20 @@
-f = [1, 2, 3]
-def F(n):
-    print(f[n])
-F(1)
+import numpy as np
+
+WIDTH, HEIGHT = 126, 33
+permission = 5
+WIDTH*=permission
+HEIGHT*=permission
+
+screen = np.array([" "*WIDTH] * HEIGHT)
+s = ""
+
+screen[HEIGHT//4:-HEIGHT//4][:] = "@"
+
+
+for i in screen:
+    s+= i[:] + '\n'
+#print(s, sep="")
+k = "0123456789"
+k[1:5] = '2'
+print(k)
+
