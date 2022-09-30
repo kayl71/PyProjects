@@ -28,9 +28,12 @@
     <Folder Include="ClassWork\" />
     <Folder Include="ClassWork\Day3%2816.09%29\" />
     <Folder Include="ClassWork4\" />
+    <Folder Include="ClassWork5\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ClassWork4\lpr2022_lab4.ipynb" />
+    <Content Include="ClassWork5\lpr2022_lab5%281%29.ipynb" />
+    <Content Include="ClassWork5\Untitled8.ipynb" />
     <Content Include="ClassWork\1.py" />
     <Content Include="ClassWork\2.py" />
     <Content Include="ClassWork\3.py" />
