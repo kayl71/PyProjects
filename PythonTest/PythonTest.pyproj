@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ClassWord7_KR\classWork7.py" />
     <Compile Include="ClassWork2\Day2.py" />
     <Compile Include="ClassWork\Day3%2816.09%29\Tricky_Sums.py" />
     <Compile Include="PythonTest.py" />
@@ -31,11 +32,14 @@
     <Folder Include="ClassWork4\" />
     <Folder Include="ClassWork5\" />
     <Folder Include="ClassWork2\" />
+    <Folder Include="ClassWork6\" />
+    <Folder Include="ClassWord7_KR\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ClassWork4\lpr2022_lab4.ipynb" />
     <Content Include="ClassWork5\lpr2022_lab5%281%29.ipynb" />
     <Content Include="ClassWork5\Untitled8.ipynb" />
+    <Content Include="ClassWork6\lpr6.ipynb" />
     <Content Include="ClassWork\1.py" />
     <Content Include="ClassWork\2.py" />
     <Content Include="ClassWork\3.py" />
