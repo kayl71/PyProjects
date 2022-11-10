@@ -1,7 +1,6 @@
 import math
 import pygame as pg
 from random import randint
-
 import pygame.display
 
 WIDTH, HEIGHT = 500, 500
